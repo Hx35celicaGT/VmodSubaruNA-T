@@ -16,8 +16,8 @@ Patch Adds the following
 -	Launch control static timing
 -	Coil dwell table 
 
-Add “E2VG22VM” to EcuFlash “forester2.5” in the rommetadata folder
-Add “E2VG221D_Vmod” to the Romraider definition file manager
-Open up “VmodBase_01” in romraider. This file should be pretty close to stock but it may need changed for your configuration. 
-In Romraider logger add the “VmodLogger” to log all the normal parameters plus flex fuel voltage, otherwise the normal “E2VG221D” parameters will work.
-To flash use EcuFlash, if using a Vagcom or any other Obd2 connector setup and use FastEcu. 
+- Add “E2VG22VM” to EcuFlash “forester2.5” in the rommetadata folder
+- Add “E2VG221D_Vmod” to the Romraider definition file manager
+- Open up “VmodBase_01” in romraider. This file should be pretty close to stock but it may need changed for your configuration. 
+- In Romraider logger add the “VmodLogger” to log all the normal parameters plus flex fuel voltage, otherwise the normal “E2VG221D” parameters will work.
+- To flash use EcuFlash, if using a Vagcom or any other Obd2 connector setup and use FastEcu. 
