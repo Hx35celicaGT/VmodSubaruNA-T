@@ -15,7 +15,7 @@ Patch Adds the following
 -	Launch control fuel cut activated throttle opening
 -	Launch control static timing
 -	Coil dwell table 
-
+------------------------------------------------------------------------------------------
 - Add “E2VG22VM” to EcuFlash “forester2.5” in the rommetadata folder
 - Add “E2VG221D_Vmod” to the Romraider definition file manager
 - Open up “VmodBase_01” in romraider. This file should be pretty close to stock but it may need changed for your configuration. 
